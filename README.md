@@ -59,6 +59,8 @@ If we were to just randomly generate permutations and then check, it is possible
 
 https://www.youtube.com/watch?v=GuTPwotSdYw this video was a very valuable way to help me understand the recursion needed to find the permutations
 
+https://www.bing.com/search?q=loop+javascript+code+permutations+series+of+numbers+for+sorting&qs=n&form=QBRE&sp=-1&lq=0&pq=loop+javascript+code+permutations+series+of+numbers+for+sorting&sc=8-63&sk=&cvid=319FB61FA1BB4ACFAEF74A950FD91D5E&ghsh=0&ghacc=0&ghpl=&showconv=1   also helped withfinding the permutations
+
 
 
 
